@@ -4,6 +4,7 @@ This collection includes skills copied from, based on, or designed to work with 
 
 ## Matt Pocock
 
+- [`publish-pr`](skills/publish-pr/) adapts PR-body structure and guidance from [Matt Pocock's pr skill](https://github.com/mattpocock/skills/blob/main/skills/engineering/pr/SKILL.md).
 - [`grill-me`](skills/grill-me/) combines [Matt Pocock's grill-me entry point](https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me) with his current [grilling workflow](https://github.com/mattpocock/skills/blob/main/skills/productivity/grilling/SKILL.md).
 - [`writing-great-skills`](skills/writing-great-skills/) was copied from [Matt Pocock's writing-great-skills skill](https://github.com/mattpocock/skills/tree/main/skills/productivity/writing-great-skills).
 
@@ -19,5 +20,9 @@ This collection includes skills copied from, based on, or designed to work with 
 ## OpenAI
 
 - [`publish-pr`](skills/publish-pr/) is based on [OpenAI's yeet skill](https://github.com/openai/plugins/tree/main/plugins/github/skills/yeet).
+
+## Dex Horthy / Humanlayer
+
+- The PR-body guidance in [`publish-pr`](skills/publish-pr/) draws on [Dex Horthy's show-me skill at Humanlayer](https://github.com/humanlayer/skills/blob/main/plugins/show-me/skills/show-me/SKILL.md), credited by Matt Pocock's pr skill.
 
 Thank you to every creator who shared their work.

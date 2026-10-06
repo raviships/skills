@@ -8,12 +8,13 @@ The collection is intentionally small and opinionated. Each skill can be install
 
 | Skill | What it does |
 | --- | --- |
+| [`babysit-pr`](skills/babysit-pr/) | Evaluates review findings and babysits a PR until checks are green and it is ready to merge. |
 | [`delegate-thermo-review`](skills/delegate-thermo-review/) | Delegates a strict maintainability review to a subagent and discusses its findings.<br><sub>Credit: [Cursor](https://github.com/cursor)</sub> |
 | [`grill-me`](skills/grill-me/) | Stress-tests a plan or design across every answerable branch, round by round.<br><sub>Credit: [Matt Pocock](https://github.com/mattpocock)</sub> |
 | [`html-plan`](skills/html-plan/) | Produces grounded, self-contained interactive HTML implementation plans.<br><sub>Credit: [Builder.io](https://github.com/BuilderIO)</sub> |
 | [`html-recap`](skills/html-recap/) | Turns completed work into a self-contained interactive HTML recap.<br><sub>Credit: [Builder.io](https://github.com/BuilderIO)</sub> |
 | [`interactive-review`](skills/interactive-review/) | Reviews code changes interactively, one architecture and data-flow section at a time. |
-| [`publish-pr`](skills/publish-pr/) | Commits, pushes, and opens a typed draft pull request.<br><sub>Credit: [OpenAI](https://github.com/openai)</sub> |
+| [`publish-pr`](skills/publish-pr/) | Commits, pushes, and opens a typed draft pull request with evidence and rollback guidance.<br><sub>Credit: [OpenAI](https://github.com/openai), [Matt Pocock](https://github.com/mattpocock), [Dex Horthy / Humanlayer](https://github.com/humanlayer)</sub> |
 | [`writing-great-skills`](skills/writing-great-skills/) | Provides a vocabulary and principles for writing predictable agent skills.<br><sub>Credit: [Matt Pocock](https://github.com/mattpocock)</sub> |
 
 ## Install
